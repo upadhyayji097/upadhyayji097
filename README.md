@@ -2,7 +2,7 @@
 - 👀 I’m interested in competetive coding and development.
 - 🌱 I’m currently learning php and Python.
 - 💞️ I’m looking to collaborate on graphic designing.
-- 📫 How to reach me my  insta id is upadhyay_ji097 and you can mail me at abhishekupadhyay789009@gmail.com.
+- 📫  Reach me at my  insta  upadhyay_ji097 and you can mail me at abhishekupadhyay789009@gmail.com.
 
 <!---
 upadhyayji097/upadhyayji097 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
